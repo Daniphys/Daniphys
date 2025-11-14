@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniphys
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning machine learning and data analysis
-- 💞️ I’m looking to collaborate on data analysis 
+- 👀 I’m interested in data analysis, data science, all about machine learning and deep learning
+- 🌱 I’m currently learning machine learning, deep learning and data analysis
+- 💞️ I’m looking to collaborate on data analysis and data science 
 - 📫 How to reach me: d73ricardo@gmail.com
 
 <!---
